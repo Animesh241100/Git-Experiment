@@ -3,7 +3,7 @@
 void Multiply(int * arr, int n);
 
 int main() {
-  int arr[10] = {1, 2, 3, 4, 5, 6, 7, 6, 9, 10};
+  int arr[11] = {0, 1, 2, 3, 4, 5, 6, 7, 6, 9, 10};
   Multiply(arr, 10);
   printf("hello w");
   for (int i = 0; i < 10; i++)
