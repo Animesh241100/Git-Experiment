@@ -3,6 +3,7 @@
 int Array_in(int * arr, int n);
 int Array_out(int * arr, int n);
 
+// A new comment in here
 int main() {
   int arr[10];
   printf("My heading: \n");
